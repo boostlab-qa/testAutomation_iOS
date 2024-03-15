@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_receiptItemFalse</name>
+   <tag></tag>
+   <elementGuidId>6c40515e-c4cb-40a5-90a5-3b9a83903b8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[@for='useSymptoms_false']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//label[@for='useSymptoms_false']</value>
+      <webElementGuid>3a5a83e4-3d9b-49a9-afab-9da4a160d0af</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

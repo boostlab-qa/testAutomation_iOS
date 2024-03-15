@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- 접수 on&#xd;
+- 예약 off&#xd;
+- 진료항목 on (영유아검진)&#xd;
+- 상세증상 on&#xd;
+- 사전문진 off&#xd;
+- 영유아문진표 on</description>
+   <name>01_병드민_데일리_02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>493d0552-a88d-4f56-b80a-6fb13c6dde3e</testCaseGuid>
+</TestCaseEntity>

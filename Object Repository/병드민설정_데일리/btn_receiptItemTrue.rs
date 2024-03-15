@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_receiptItemTrue</name>
+   <tag></tag>
+   <elementGuidId>cc31fb31-7a19-4b97-a0e5-347e5ed4fefc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[@for='useSymptoms_true']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//label[@for='useSymptoms_true']</value>
+      <webElementGuid>65d739ab-c48e-485a-a855-ac4dd21f6836</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

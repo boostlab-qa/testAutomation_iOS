@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>[확인]</description>
+   <name>btn_close</name>
+   <tag></tag>
+   <elementGuidId>99a75201-8605-4da3-81cc-a914e8a87fdb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//footer/div/div/button[count(. | //*[(text() = '닫기' or . = '닫기')]) = count(//*[(text() = '닫기' or . = '닫기')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//footer/div/div/button</value>
+      <webElementGuid>4f2bdad9-5992-4675-bfd2-75ae39cdb256</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>닫기</value>
+      <webElementGuid>39b9abcc-bd73-4f47-91fd-2f7a0e50f4d7</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

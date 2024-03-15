@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>03_집(테스트)</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>앱 패키지 아이디</description>
+      <initValue>'com.bbros.sayup.debug'</initValue>
+      <name>appid</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>고정된 시간</description>
+      <initValue>10</initValue>
+      <name>fixedTime</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>변경 시간</description>
+      <initValue>4</initValue>
+      <name>waitTime</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'자동화메인'</initValue>
+      <name>name_main</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>이메일 아이디</description>
+      <initValue>'자동화서브'</initValue>
+      <name>name_sub</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'qa90000@qa.com'</initValue>
+      <name>id_90000</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'qa90001@qa.com'</initValue>
+      <name>id_90001</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'qwer1234!'</initValue>
+      <name>pw</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>집 주소</description>
+      <initValue>'경기 부천시 원미구 부흥로 49 (상동, 백송마을) '</initValue>
+      <name>my_adress</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>주소 이름</description>
+      <initValue>'상동'</initValue>
+      <name>adress_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>우편번호</description>
+      <initValue>'(14591)'</initValue>
+      <name>zip_code</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>생년월일</description>
+      <initValue>'860810'</initValue>
+      <name>birth_90000</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>생년월일</description>
+      <initValue>'860811'</initValue>
+      <name>birth_90001</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>병원명</description>
+      <initValue>'[TEST] 자동화병원'</initValue>
+      <name>hospital_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'아들'</initValue>
+      <name>male</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>자녀</description>
+      <initValue>'딸'</initValue>
+      <name>female</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>예약일</description>
+      <initValue>''</initValue>
+      <name>reservation_day</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>아들 생년월일</description>
+      <initValue>'230301'</initValue>
+      <name>male_birth_date</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>가족관리 화면 </description>
+      <initValue>'2023년 03월 01일 (남)'</initValue>
+      <name>male_info</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>[TEST] 자동화병원</description>
+      <initValue>'llljjj123'</initValue>
+      <name>hospital_id</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>[TEST] 자동화병원</description>
+      <initValue>'qwe897!@'</initValue>
+      <name>hospital_pw</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>병드민 URL</description>
+      <initValue>'https://testhospital.ddocdoc.com'</initValue>
+      <name>url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>임시 병원</description>
+      <initValue>'[TEST] 배곧의원'</initValue>
+      <name>hospital</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>appium 디렉토리(개인pc)</description>
+      <initValue>'C:/Users/audrm/AppData/Roaming/npm/node_modules/appium'</initValue>
+      <name>appiumPath</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>today</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

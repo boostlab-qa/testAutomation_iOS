@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>세니티 수행 STEP01</description>
+   <name>02_병드민_세니티_접수(문진x)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>14002100-bbb1-47e0-9ccc-2c434eaee42c</testCaseGuid>
+</TestCaseEntity>

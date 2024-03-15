@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>01_집(운영)</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>앱ID</description>
+      <initValue>'com.bbros.sayup'</initValue>
+      <name>appid</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>고정된 시간</description>
+      <initValue>15</initValue>
+      <name>fixedTime</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>변경 시간</description>
+      <initValue>4</initValue>
+      <name>waitTime</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'자동화테스트'</initValue>
+      <name>user_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>이메일 아이디</description>
+      <initValue>'qa22@qa.com'</initValue>
+      <name>email_id</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>이메일 패스워드</description>
+      <initValue>'qwer1234!'</initValue>
+      <name>email_password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>집 주소</description>
+      <initValue>'경기 부천시 원미구 부흥로 49 (상동, 백송마을) '</initValue>
+      <name>my_adress</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>주소 이름</description>
+      <initValue>'상동'</initValue>
+      <name>adress_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>우편번호</description>
+      <initValue>'(14591)'</initValue>
+      <name>zip_code</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>생년월일</description>
+      <initValue>'860816'</initValue>
+      <name>user_birth_date</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>병원명</description>
+      <initValue>'[TEST] 비브로스의원'</initValue>
+      <name>hospital_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'아들'</initValue>
+      <name>male</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>자녀</description>
+      <initValue>'딸'</initValue>
+      <name>female</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>예약일</description>
+      <initValue>''</initValue>
+      <name>reservation_day</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>아들 생년월일</description>
+      <initValue>'230301'</initValue>
+      <name>male_birth_date</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>가족관리 화면 </description>
+      <initValue>'2023년 03월 01일 (남)'</initValue>
+      <name>male_info</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>[TEST] 비브로스의원</description>
+      <initValue>'ddocdocqa12'</initValue>
+      <name>hospital_id</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>[TEST] 비브로스의원</description>
+      <initValue>'ddocdocqa12!@'</initValue>
+      <name>hospital_pw</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>병드민 똑닥서비스 url</description>
+      <initValue>'https://hospital.ddocdoc.com/'</initValue>
+      <name>url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>임시 병원</description>
+      <initValue>'[TEST] 똑닥마취통증의학과의원'</initValue>
+      <name>hospital</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>appium 디렉토리(개인pc)</description>
+      <initValue>'C:/Users/audrm/AppData/Roaming/npm/node_modules/appium'</initValue>
+      <name>appiumPath</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>02_회사(운영)</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>앱ID</description>
+      <initValue>'com.bbros.sayup'</initValue>
+      <name>appid</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>고정된 시간</description>
+      <initValue>15</initValue>
+      <name>fixedTime</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>변경 시간</description>
+      <initValue>4</initValue>
+      <name>waitTime</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'똑테스터'</initValue>
+      <name>user_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>이메일 아이디</description>
+      <initValue>'qa21@qa.com'</initValue>
+      <name>email_id</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>이메일 패스워드</description>
+      <initValue>'qwer1234!'</initValue>
+      <name>email_password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>집 주소</description>
+      <initValue>'서울 영등포구 여의대로 108 (여의도동) '</initValue>
+      <name>my_adress</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>집 상세주소</description>
+      <initValue>'31층'</initValue>
+      <name>my_adress_detail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>회사 주소</description>
+      <initValue>'여의도동'</initValue>
+      <name>adress_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>우편번호</description>
+      <initValue>'(07335)'</initValue>
+      <name>zip_code</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>생년월일</description>
+      <initValue>'860816'</initValue>
+      <name>user_birth_date</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>병원명</description>
+      <initValue>'[TEST] 비브로스의원'</initValue>
+      <name>hospital_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'아들'</initValue>
+      <name>male</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'딸'</initValue>
+      <name>female</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>예약일</description>
+      <initValue>''</initValue>
+      <name>reservation_day</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>아들 생년월일</description>
+      <initValue>'230301'</initValue>
+      <name>male_birth_date</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>가족관리 화면 </description>
+      <initValue>'2023년 03월 01일 (남)'</initValue>
+      <name>son_info</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>비브로스</description>
+      <initValue>'ddocdocqa12'</initValue>
+      <name>hospital_id</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>비브로스</description>
+      <initValue>'ddocdocqa12!@'</initValue>
+      <name>hospital_pw</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>병드민 url</description>
+      <initValue>'https://hospital.ddocdoc.com/'</initValue>
+      <name>url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>임시 병원</description>
+      <initValue>'[TEST] 똑닥마취통증의학과의원'</initValue>
+      <name>hospital</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>appium 디렉토리(회사pc)</description>
+      <initValue>'C:\\Users\\qa-user\\AppData\\Roaming\\npm\\node_modules\\appium'</initValue>
+      <name>appiumPath</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>today</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
